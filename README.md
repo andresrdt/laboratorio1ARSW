@@ -9,3 +9,4 @@
   - 2.Start all three threads with start(). 
   - 3.Run and check the output on screen. 
   - 4.Change the beginning with start() to run(). How does the output change? Why?
+  - -	With the start() implementation the threads prints in disorder, that is because the start() method  creates a new thread for each implementation, whilst the run() method execute each implementation of the thread in an unique and already existing thread like a normal method call.   
