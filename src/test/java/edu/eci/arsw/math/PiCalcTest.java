@@ -13,7 +13,7 @@ import static org.junit.Assert.*;
  *
  * @author hcadavid
  */
-public class PiCalcTest {
+/**public class PiCalcTest {
 
     public PiCalcTest() {
     }
@@ -50,3 +50,4 @@ public class PiCalcTest {
     }
 
 }
+**/
